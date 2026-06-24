@@ -49,4 +49,4 @@ Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
 Markdown
 ##Dashboard Preview
-![Dashboard](Dashboard Screenshot.jpeg)
+![Dashboard Screenshot](./Dashboard%20Screenshot.jpeg)
