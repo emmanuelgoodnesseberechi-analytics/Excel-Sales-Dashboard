@@ -15,7 +15,7 @@ Objectives
 Tools Used
 
 * Microsoft Excel
-* Pivot Tables
+* Power Pivot
 * Pivot Charts
 * Slicers
 
@@ -31,7 +31,7 @@ Files Included
 
 * Excel Dashboard Workbook
 * Raw Dataset
-* Dashboard Screenshots
+* Dashboard Screenshot
 
 Skills Demonstrated
 
