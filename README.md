@@ -16,6 +16,7 @@ Tools Used
 
 * Microsoft Excel
 * Power Pivot
+* Pivot Tables
 * Pivot Charts
 * Slicers
 
