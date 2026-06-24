@@ -46,3 +46,6 @@ Author
 
 Emmanuel Goodness Eberechi
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
+
+##Dashboard Preview
+![Dashboard Screenshot](Dashboard Screenshot.jpeg)
